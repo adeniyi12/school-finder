@@ -7,9 +7,9 @@ export default function HomePage() {
       <nav className="px-6 py-4 flex items-center justify-between border-b border-slate-200/60 bg-white/70 backdrop-blur-sm sticky top-0 z-10">
         <div className="flex items-center gap-2">
           <div className="w-8 h-8 rounded-lg bg-brand-600 flex items-center justify-center">
-            <span className="text-white text-sm font-bold">S</span>
+            <span className="text-white text-sm font-bold">GN</span>
           </div>
-          <span className="font-bold text-slate-900">ScholarPath</span>
+          <span className="font-bold text-slate-900">GN School Finder</span>
         </div>
         <Link href="/form" className="btn-primary text-xs px-4 py-2">
           Get Started →

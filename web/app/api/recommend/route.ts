@@ -3,8 +3,8 @@
 // ─────────────────────────────────────────────
 
 import { NextRequest } from "next/server";
-import { runSchoolFinder } from "@/../../src/agent";
-import { FormSubmission } from "@/../../src/types";
+import { runSchoolFinder } from "../../../../src/agent";
+import { FormSubmission } from "../../../../src/types";
 import OpenAI from "openai";
 
 // ─── OpenRouter LLM caller ─────────────────────
