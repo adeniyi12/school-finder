@@ -1,0 +1,14 @@
+{
+  "name": "school-finder",
+  "version": "1.0.0",
+  "description": "Academic strength scoring engine for international school recommendations",
+  "main": "dist/scoring.js",
+  "scripts": {
+    "test": "ts-node src/test.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
