@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "ScholarPath — Find Your Best University",
+  title: "GN Schhol Finder — Find Your Best University",
   description: "Answer a few questions and discover the top universities that match your academic profile.",
 };
 
